@@ -1,0 +1,12 @@
+{
+  "name": "semana_16",
+  "version": "1.0.0",
+  "description": "Este es un archivo de practica utilizando express.js",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
